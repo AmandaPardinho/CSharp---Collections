@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AmandaMarquesPardinh\\Desktop\\Performa\\repositorios\\Exercicios-Extra-CSharp\\Colecao\\Colecao.csproj": {}
+    "C:\\Users\\AmandaMarquesPardinh\\Desktop\\Performa\\repositorios\\CSharp---Collections\\Colecao\\Colecao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AmandaMarquesPardinh\\Desktop\\Performa\\repositorios\\Exercicios-Extra-CSharp\\Colecao\\Colecao.csproj": {
+    "C:\\Users\\AmandaMarquesPardinh\\Desktop\\Performa\\repositorios\\CSharp---Collections\\Colecao\\Colecao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AmandaMarquesPardinh\\Desktop\\Performa\\repositorios\\Exercicios-Extra-CSharp\\Colecao\\Colecao.csproj",
+        "projectUniqueName": "C:\\Users\\AmandaMarquesPardinh\\Desktop\\Performa\\repositorios\\CSharp---Collections\\Colecao\\Colecao.csproj",
         "projectName": "Colecao",
-        "projectPath": "C:\\Users\\AmandaMarquesPardinh\\Desktop\\Performa\\repositorios\\Exercicios-Extra-CSharp\\Colecao\\Colecao.csproj",
+        "projectPath": "C:\\Users\\AmandaMarquesPardinh\\Desktop\\Performa\\repositorios\\CSharp---Collections\\Colecao\\Colecao.csproj",
         "packagesPath": "C:\\Users\\AmandaMarquesPardinh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AmandaMarquesPardinh\\Desktop\\Performa\\repositorios\\Exercicios-Extra-CSharp\\Colecao\\obj\\",
+        "outputPath": "C:\\Users\\AmandaMarquesPardinh\\Desktop\\Performa\\repositorios\\CSharp---Collections\\Colecao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
