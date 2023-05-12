@@ -71,6 +71,23 @@ namespace Colecao
             string[] copia = new string[2];
             Array.Copy(aulas, 1, copia, 0, 2);
             Imprimir(copia);
+            Console.WriteLine("\n");
+
+            //Outra forma de copiar um array
+            string[] clone = aulas.Clone() as string[];
+            Imprimir(clone);
+            Console.WriteLine("\n");
+
+            //Limpar elementos do array
+                //Array.Clear(nome do array, índice a partir do qual quero iniciar a limpeza, quantidade de elementos a serem limpados)
+            Array.Clear(clone, 1, 2);
+            Imprimir(clone);
+            Console.WriteLine("\n");
+
+            /*Arrays são mais usados para manipulações de elementos de mais baixo nível
+             * Sempre que possível, usar uma lista => maior facilidade na manipulação
+             */
+
 
             Console.ReadKey();
         }
