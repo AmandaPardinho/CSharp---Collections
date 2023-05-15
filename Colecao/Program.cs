@@ -94,6 +94,9 @@ namespace Colecao
 
         private static void Imprimir(string[] aulas)
         {
+            //Limpar o console
+            Console.Clear();
+
             //Imprimindo os componentes do array - método 1
             //foreach (string aula in aulas)
             //{
