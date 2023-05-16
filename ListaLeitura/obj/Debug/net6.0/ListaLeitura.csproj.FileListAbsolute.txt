@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListaLeitura\bin\Debug\net6.0\ListaLeitura.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListaLeitura\bin\Debug\net6.0\ListaLeitura.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListaLeitura\bin\Debug\net6.0\ListaLeitura.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListaLeitura\bin\Debug\net6.0\ListaLeitura.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListaLeitura\bin\Debug\net6.0\ListaLeitura.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListaLeitura\obj\Debug\net6.0\ListaLeitura.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListaLeitura\obj\Debug\net6.0\ListaLeitura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListaLeitura\obj\Debug\net6.0\ListaLeitura.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListaLeitura\obj\Debug\net6.0\ListaLeitura.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListaLeitura\obj\Debug\net6.0\ListaLeitura.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListaLeitura\obj\Debug\net6.0\ListaLeitura.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListaLeitura\obj\Debug\net6.0\refint\ListaLeitura.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListaLeitura\obj\Debug\net6.0\ListaLeitura.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListaLeitura\obj\Debug\net6.0\ListaLeitura.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListaLeitura\obj\Debug\net6.0\ref\ListaLeitura.dll
