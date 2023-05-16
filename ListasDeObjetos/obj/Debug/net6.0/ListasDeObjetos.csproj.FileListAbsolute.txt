@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListasDeObjetos\bin\Debug\net6.0\ListasDeObjetos.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListasDeObjetos\bin\Debug\net6.0\ListasDeObjetos.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListasDeObjetos\bin\Debug\net6.0\ListasDeObjetos.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListasDeObjetos\bin\Debug\net6.0\ListasDeObjetos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListasDeObjetos\bin\Debug\net6.0\ListasDeObjetos.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListasDeObjetos\obj\Debug\net6.0\ListasDeObjetos.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListasDeObjetos\obj\Debug\net6.0\ListasDeObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListasDeObjetos\obj\Debug\net6.0\ListasDeObjetos.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListasDeObjetos\obj\Debug\net6.0\ListasDeObjetos.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListasDeObjetos\obj\Debug\net6.0\ListasDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListasDeObjetos\obj\Debug\net6.0\ListasDeObjetos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListasDeObjetos\obj\Debug\net6.0\refint\ListasDeObjetos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListasDeObjetos\obj\Debug\net6.0\ListasDeObjetos.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListasDeObjetos\obj\Debug\net6.0\ListasDeObjetos.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\ListasDeObjetos\obj\Debug\net6.0\ref\ListasDeObjetos.dll
