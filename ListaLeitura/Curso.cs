@@ -51,5 +51,32 @@ namespace ListaLeitura
         {
             this._aulas.Add(aula);
         }
+
+		public int TempoTotal
+		{
+			get
+			{
+				/* MÉTODO 1
+				 * total => acumulador
+				 * 
+				 *	int total = 0;
+					foreach (var aula in _aulas)
+					{
+						total += aula.Tempo;
+					}
+					return total;
+				*/
+
+				/*LINQ => Language Integrated Query (Consulta Integrada à Linguagem)
+				 * conjunto de extensões que consegue dar suporte para uma série de consultas que podem ser feitas em coleções
+				 */
+				return _aulas.Sum(aula => aula.Tempo); //lambda: para cada aula, retornar aula.Tempo 
+            }
+        }
+
+        public override string ToString()
+        {
+			return $"Curso: {_nome}\nTempo: {TempoTotal} minutos\nAulas: {string.Join(",", _aulas)}";
+        }
     }
 }
