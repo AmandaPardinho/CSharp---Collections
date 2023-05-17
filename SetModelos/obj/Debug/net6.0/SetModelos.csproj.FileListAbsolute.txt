@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\SetModelos\bin\Debug\net6.0\SetModelos.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\SetModelos\bin\Debug\net6.0\SetModelos.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\SetModelos\bin\Debug\net6.0\SetModelos.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\SetModelos\bin\Debug\net6.0\SetModelos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\SetModelos\bin\Debug\net6.0\SetModelos.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\SetModelos\obj\Debug\net6.0\SetModelos.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\SetModelos\obj\Debug\net6.0\SetModelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\SetModelos\obj\Debug\net6.0\SetModelos.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\SetModelos\obj\Debug\net6.0\SetModelos.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\SetModelos\obj\Debug\net6.0\SetModelos.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\SetModelos\obj\Debug\net6.0\SetModelos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\SetModelos\obj\Debug\net6.0\refint\SetModelos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\SetModelos\obj\Debug\net6.0\SetModelos.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\SetModelos\obj\Debug\net6.0\SetModelos.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\SetModelos\obj\Debug\net6.0\ref\SetModelos.dll
