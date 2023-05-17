@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\PoderDosSets\bin\Debug\net6.0\PoderDosSets.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\PoderDosSets\bin\Debug\net6.0\PoderDosSets.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\PoderDosSets\bin\Debug\net6.0\PoderDosSets.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\PoderDosSets\bin\Debug\net6.0\PoderDosSets.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\PoderDosSets\bin\Debug\net6.0\PoderDosSets.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\PoderDosSets\obj\Debug\net6.0\PoderDosSets.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\PoderDosSets\obj\Debug\net6.0\PoderDosSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\PoderDosSets\obj\Debug\net6.0\PoderDosSets.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\PoderDosSets\obj\Debug\net6.0\PoderDosSets.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\PoderDosSets\obj\Debug\net6.0\PoderDosSets.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\PoderDosSets\obj\Debug\net6.0\PoderDosSets.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\PoderDosSets\obj\Debug\net6.0\refint\PoderDosSets.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\PoderDosSets\obj\Debug\net6.0\PoderDosSets.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\PoderDosSets\obj\Debug\net6.0\PoderDosSets.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\PoderDosSets\obj\Debug\net6.0\ref\PoderDosSets.dll
