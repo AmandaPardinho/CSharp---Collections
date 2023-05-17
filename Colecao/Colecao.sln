@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaLeitura", "..\ListaLei
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoderDosSets", "..\PoderDosSets\PoderDosSets.csproj", "{925E7913-23ED-4995-A230-7DE06E619597}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetModelos", "..\SetModelos\SetModelos.csproj", "{53141861-CDAF-4383-9D22-720E40A63FF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{925E7913-23ED-4995-A230-7DE06E619597}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{925E7913-23ED-4995-A230-7DE06E619597}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{925E7913-23ED-4995-A230-7DE06E619597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53141861-CDAF-4383-9D22-720E40A63FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53141861-CDAF-4383-9D22-720E40A63FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53141861-CDAF-4383-9D22-720E40A63FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53141861-CDAF-4383-9D22-720E40A63FF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
