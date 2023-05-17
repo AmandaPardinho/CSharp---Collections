@@ -35,7 +35,27 @@ namespace SetModelos
                 Console.WriteLine(aluno);
             }
 
+            Console.WriteLine("\n");
+
+            //verificando se um dado aluno está matriculado ou não
+            Console.WriteLine($"O aluno a1 {a1.Nome} está matriculado?");
+            Console.WriteLine(cSharpColecoes.EstaMatriculado(a1));
+            Console.WriteLine("\n");
+
+            //instanciando novo aluno com nome Vanessa Tonini e verificando a matrícula
+            Aluno tonini = new Aluno("Vanessa Tonini", 34672);
+            Console.WriteLine($"Tonini está matriculada? {cSharpColecoes.EstaMatriculado(tonini)}");
+            Console.WriteLine("\n");
+
+            //a1 == tonini?
+            Console.WriteLine($"a1 == tonini? {a1 == tonini}");
+            Console.WriteLine("\n");
+
+            //equals
+            Console.WriteLine($"a1.equals é igual a tonini? {a1.Equals(tonini)}");
+            Console.WriteLine("\n");
+
             Console.ReadKey();
-        }
+        }          
     }
 }
