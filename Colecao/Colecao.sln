@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetModelos", "..\SetModelos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "..\LinkedList\LinkedList.csproj", "{B5953138-0D61-4648-8782-46C65ABDEBD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavegacaoBrowserStack", "..\NavegacaoBrowserStack\NavegacaoBrowserStack.csproj", "{91668EE1-E814-4064-A504-C2BEF7F5C187}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{B5953138-0D61-4648-8782-46C65ABDEBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5953138-0D61-4648-8782-46C65ABDEBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5953138-0D61-4648-8782-46C65ABDEBD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91668EE1-E814-4064-A504-C2BEF7F5C187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91668EE1-E814-4064-A504-C2BEF7F5C187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91668EE1-E814-4064-A504-C2BEF7F5C187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91668EE1-E814-4064-A504-C2BEF7F5C187}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
