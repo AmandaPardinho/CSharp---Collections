@@ -2,7 +2,7 @@
 {
     public class Navegador
     {
-        //Stack = pilha  
+        //Stack = pilha => o último elemento a entrar é o primeiro elemento a sair da pilha
         private readonly Stack<string> historicoAnterior = new Stack<string>();
         private readonly Stack<string> historicoProximo = new Stack<string>();
         private string atual = "vazia";
@@ -33,8 +33,12 @@
 
         public void Proximo()
         {
-            atual = historicoProximo.Pop();
-            Console.WriteLine($"Página atual: {atual}");
+            if (historicoProximo.Any())
+            {
+                historicoAnterior.Push(atual);
+                atual = historicoProximo.Pop();
+                Console.WriteLine($"Página atual: {atual}");
+            }            
         }
     }
 }
