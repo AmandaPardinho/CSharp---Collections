@@ -50,11 +50,11 @@ namespace SetModelos
          * quanto mais diversos esses locais (mais espalhado), mais eficiente a busca (ausência de conflitos)
          * quando há conflitos (colisão de código - dois ou mais elementos num mesmo local), é necessário fazer a busca no local todo para que não haja erros na identificação do objeto => isso torna o processo de busca mais lento
          * sempre que o método Equals é implementado, faz-se necessária a implementação do método GetHashCode para garantir que a dispersão seja feita corretamente
+         * IMPORTANTE: dois objetos que são iguais possuem o mesmo hash code (número de dispersão); porém, dois objetos com o mesmo hash code NÃO são necessariamente iguais.
          */
         public override int GetHashCode()
         {
             return this._nome.GetHashCode();
         }
-
     }
 }
