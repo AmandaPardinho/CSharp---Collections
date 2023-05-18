@@ -9,6 +9,9 @@ namespace SetModelos
 {
     public class Curso
     {
+        //implementação de um dicionário de alunos
+        private Dictionary<int, Aluno> dicionarioAlunos = new Dictionary<int, Aluno>();
+
         //alunos deve ser um ISet (conjunto) e retornar ReadOnlyCollection
         private ISet<Aluno> alunos = new HashSet<Aluno>();
         
@@ -70,12 +73,29 @@ namespace SetModelos
 
         internal void Matricula(Aluno aluno)
         {
-            alunos.Add(aluno);
+            this.alunos.Add(aluno);
+            this.dicionarioAlunos.Add(aluno.NumeroMatricula, aluno);
         }
 
-        public bool EstaMatriculado(Aluno aluno)
+        /* em dicionários, os colchetes contém a chave desse dicionário
+         */
+        public Aluno BuscaMatriculado(int numeroMatricula)
+        {
+            Aluno aluno = null;
+
+            //out => parâmetro de saída
+            this.dicionarioAlunos.TryGetValue(numeroMatricula, out aluno);
+            return aluno;
+        }
+
+        internal bool EstaMatriculado(Aluno aluno)
         {
             return alunos.Contains(aluno);
+        }
+
+        internal void SubstituiAluno(Aluno aluno)
+        {
+            this.dicionarioAlunos[aluno.NumeroMatricula] = aluno;
         }
     }
 }
