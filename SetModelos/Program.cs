@@ -55,6 +55,39 @@ namespace SetModelos
             Console.WriteLine($"a1.equals é igual a tonini? {a1.Equals(tonini)}");
             Console.WriteLine("\n");
 
+            /* verificando quem é um determinado aluno através da implementação de um novo método
+             * apesar de funcionar, realizar a busca desse modo não é a mais eficiente;
+             */
+            Console.WriteLine("Quem é o aluno com matrícula 5617?");
+            Aluno aluno5617 = cSharpColecoes.BuscaMatriculado(5617);
+            Console.WriteLine($"aluno5617: {aluno5617}");
+            Console.WriteLine("\n");
+
+            /* dicionário => tipo de coleção específica para problemas de busca
+             * permite associação de uma chave a um valor (neste caso: chave = matrícula, valor = aluno)
+             * quando buscamos uma chave desconhecida no dicionário => erro
+             * é necessário tratar o erro para que ele não prejudique a busca do usuário => uso do TryGetValue()
+             */
+            Console.WriteLine("Quem é o aluno 5618?");
+            Console.WriteLine(cSharpColecoes.BuscaMatriculado(5618));
+            Console.WriteLine("\n");
+
+            /*tentando adicionar um aluno a uma chave existente =>
+             * no dicionário as chaves são únicas e, portanto, não é possível adicionar um novo valor a uma chave cujo valor já foi definido
+             * no entanto, é possivel substituir o valor de uma chave já existente
+             */
+            Aluno fabio = new Aluno("Fábio Gushiken", 5617);
+            //cSharpColecoes.Matricula(fabio);
+            cSharpColecoes.SubstituiAluno(fabio);
+            Console.WriteLine("Quem é o aluno 5617?");
+            Console.WriteLine(cSharpColecoes.BuscaMatriculado(5617));
+            Console.WriteLine("\n");
+
+            /* modo como um dicionário armazena valores =>
+             * faz uso de um código de dispersão ao buscarmos pela chave, assim como um HashSet, que indicará o grupo onde cairá o valor que estamos armazenando.
+             * é pelo HashCode da chave (key) do elemento que o dicionário sabe onde posicionar o elemento na memória.
+             */
+
             Console.ReadKey();
         }          
     }
