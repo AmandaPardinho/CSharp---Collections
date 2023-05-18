@@ -9,15 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrabalhandoComArrays", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoWindowsForms", "..\BancoWindowsForms\BancoWindowsForms.csproj", "{853B5B1E-EAA6-41EB-B13C-B11A3F741C5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas", "..\Listas\Listas.csproj", "{94BFC901-6085-4353-AF4F-1B11CAA29B72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listas", "..\Listas\Listas.csproj", "{94BFC901-6085-4353-AF4F-1B11CAA29B72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListasDeObjetos", "..\ListasDeObjetos\ListasDeObjetos.csproj", "{CB374CEF-67DC-4DC2-9484-D2A4E7403F1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListasDeObjetos", "..\ListasDeObjetos\ListasDeObjetos.csproj", "{CB374CEF-67DC-4DC2-9484-D2A4E7403F1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaLeitura", "..\ListaLeitura\ListaLeitura.csproj", "{D4FCA53A-D95F-4B2C-96C1-E0F02D1BC5B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListaLeitura", "..\ListaLeitura\ListaLeitura.csproj", "{D4FCA53A-D95F-4B2C-96C1-E0F02D1BC5B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoderDosSets", "..\PoderDosSets\PoderDosSets.csproj", "{925E7913-23ED-4995-A230-7DE06E619597}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PoderDosSets", "..\PoderDosSets\PoderDosSets.csproj", "{925E7913-23ED-4995-A230-7DE06E619597}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetModelos", "..\SetModelos\SetModelos.csproj", "{53141861-CDAF-4383-9D22-720E40A63FF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetModelos", "..\SetModelos\SetModelos.csproj", "{53141861-CDAF-4383-9D22-720E40A63FF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "..\LinkedList\LinkedList.csproj", "{B5953138-0D61-4648-8782-46C65ABDEBD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{53141861-CDAF-4383-9D22-720E40A63FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53141861-CDAF-4383-9D22-720E40A63FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53141861-CDAF-4383-9D22-720E40A63FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5953138-0D61-4648-8782-46C65ABDEBD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5953138-0D61-4648-8782-46C65ABDEBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5953138-0D61-4648-8782-46C65ABDEBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5953138-0D61-4648-8782-46C65ABDEBD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
