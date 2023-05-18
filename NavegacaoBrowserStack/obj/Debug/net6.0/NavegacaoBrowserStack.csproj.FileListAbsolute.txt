@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\NavegacaoBrowserStack\bin\Debug\net6.0\NavegacaoBrowserStack.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\NavegacaoBrowserStack\bin\Debug\net6.0\NavegacaoBrowserStack.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\NavegacaoBrowserStack\bin\Debug\net6.0\NavegacaoBrowserStack.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\NavegacaoBrowserStack\bin\Debug\net6.0\NavegacaoBrowserStack.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\NavegacaoBrowserStack\bin\Debug\net6.0\NavegacaoBrowserStack.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\NavegacaoBrowserStack\obj\Debug\net6.0\NavegacaoBrowserStack.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\NavegacaoBrowserStack\obj\Debug\net6.0\NavegacaoBrowserStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\NavegacaoBrowserStack\obj\Debug\net6.0\NavegacaoBrowserStack.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\NavegacaoBrowserStack\obj\Debug\net6.0\NavegacaoBrowserStack.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\NavegacaoBrowserStack\obj\Debug\net6.0\NavegacaoBrowserStack.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\NavegacaoBrowserStack\obj\Debug\net6.0\NavegacaoBrowserStack.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\NavegacaoBrowserStack\obj\Debug\net6.0\refint\NavegacaoBrowserStack.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\NavegacaoBrowserStack\obj\Debug\net6.0\NavegacaoBrowserStack.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\NavegacaoBrowserStack\obj\Debug\net6.0\NavegacaoBrowserStack.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Collections\NavegacaoBrowserStack\obj\Debug\net6.0\ref\NavegacaoBrowserStack.dll
